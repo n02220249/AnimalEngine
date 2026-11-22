@@ -2,6 +2,12 @@
 
 A long-running personal exploration of top-down, tile-based world engines and procedural world generation.
 
+## World generation preview
+
+The image below is a generated world preview from the v2.8.25 project archive (seed 12345, world-generation preview v0.25). It illustrates the project's tile-based terrain composition; it is not a screenshot of the full running application.
+
+![AnimalEngine world generation preview](docs/images/worldgen-v0.25-preview.png)
+
 ## Overview
 
 AnimalEngine is a C++ top-down tile engine that uses JSON-driven definitions and a world-generation function to create a dynamic tile world.
